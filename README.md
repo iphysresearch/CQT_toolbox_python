@@ -32,7 +32,7 @@ Or you can read my blog post (Chinese) for inspriation:
 
 ## Related publications
 
-> C. Schörkhuber and A. Klapuri, “Constant-Q transform toolbox for music processing,” in Proceedings of the 7th Sound and Music Computing Conference, Barcelona, Spain, 2010. [PDF](https://www.researchgate.net/publication/228523955)
+> C. Schörkhuber and A. Klapuri, “Constant-Q transform toolbox for music processing,” in Proceedings of the 7th Sound and Music Computing Conference, Barcelona, Spain, 2010. [PDF](https://www.researchgate.net/publication/228523955) or [Constant-Q_transform_toolbox_for_music_processing.pdf](./Constant-Q_transform_toolbox_for_music_processing.pdf)
 
 
 ## Requirements
